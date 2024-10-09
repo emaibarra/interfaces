@@ -103,8 +103,7 @@
   </div>
   <div class="col col-sm-4">
     <a class="btn btn-primary" href="dtofinexamen.html" role="button" style="width: 20%; background-color:  #98ca50; color: white">Enviar</a>
-    <a class="btn btn-primary" href="index.html" role="button" style="width: 20%; background-color:  #98ca50; color: white">Finalizar</a>
-</div> 
+   </div> 
 </form>
 </div>
 </div>
