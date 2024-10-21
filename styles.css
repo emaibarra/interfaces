@@ -61,5 +61,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   border-color: rgb(92, 140, 20);
 }
 
-
+.card{
+  margin-top: 10px;
+}
 
